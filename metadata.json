@@ -1,0 +1,7 @@
+{
+  "name": "Sonix Tools",
+  "description": "A premium, offline-first suite of developer and utility tools featuring glassmorphism UI and smooth animations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
